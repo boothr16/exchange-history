@@ -1,0 +1,67 @@
+This program tracks the statistics on flipped items 
+and sorts the items by most profitable.
+
+
+Item		    Profit
+----------	    -------
+DragonTip           -21998              
+ZenyteShard         -21378              
+AstralRune          -9999               
+RubyDrag(e)         -9834               
+DivineSuper         -8016               
+ToxicTrident        700                 
+VarrockTele         2052                
+SanfewSerum         3600                
+ObbyCape            9945                
+DharokSet           10000               
+NatureRune          10323               
+DragonScim          13179               
+BlackMask           17200               
+GloryAmmy           18222               
+DeathRune           19998               
+DragonLegs          20286               
+KarilsTop           21716               
+AhrimsBottom        25524               
+Tentacle            29600               
+Glory               34840               
+DivineRanging       45977               
+Anguish             47500               
+MahoganyPlank       59357               
+DragonBoots         62350               
+DhAxe               63000               
+PrayerPot           63343               
+AncHat              76996               
+VorkathBones        84305               
+Blowpipe            88753               
+WyvernBones         100586              
+Anglerfish          101479              
+ArcaneScroll        118000              
+SaraBrew            121939              
+BerserkerRing       122098              
+DWH                 154990              
+TeakPlank           155988              
+AncBottom           170000              
+SnapSeed            183876              
+DragonBones         186360              
+SuperRestore        203267              
+DragonPick          208528              
+AGS                 239500              
+DragonCrossbow      252500              
+BloodRune           289971              
+SuperCombat         319619              
+Tormented           373396              
+Dex                 549538              
+ArmadylCrossbow     754168              
+Whip                762210              
+AhrimsTop           921890              
+ZammyHasta          1073480             
+DragonClaws         1599119             
+Fury                1775192             
+ArmaCrossbow        1908772             
+CrushedNest         2122736             
+ImbuedHeart         2328179             
+BGS                 3186111             
+Torture             4732014             
+ZammySpear          5309721             
+
+Grand total: 31082768
